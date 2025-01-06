@@ -15,6 +15,6 @@ This is a Spring Boot application that provides a REST API to get the temperatur
 ## Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/idiazf/vodafone-mvp-api.git
+git clone https://github.com/ignaciodiaz/vodafone-mvp-api.git
 ```
 2.

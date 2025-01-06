@@ -26,7 +26,13 @@ mvn clean package -DskipTests
 ```bash
 docker-compose up --build
 ```
-4. **Access the application**
+4. **Run SpringBootConsumer-0.0.1-SNAPSHOT file to access Kafka topic**
+- Open your terminal and go to the project directory.
+- Run the following command:
+```bash
+java -jar SpringBootConsumer-0.0.1-SNAPSHOT.jar
+```
+5. **Access the application**
 - Open your browser and go to `http://localhost:8080/api-docs`, you should see the Swagger UI with the API documentation.
 
 ## Usage
